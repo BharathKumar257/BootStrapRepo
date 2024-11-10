@@ -2,5 +2,5 @@ h1{
   color:brown
 }
 h1{
-  text-alignment : "centre"
+  text-align: center;
 }
